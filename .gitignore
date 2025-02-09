@@ -11,4 +11,6 @@ out/
 *.classpath
 *.project
 Thumbs.db
+.metadata/
+.vscode/
 .DS_Store
