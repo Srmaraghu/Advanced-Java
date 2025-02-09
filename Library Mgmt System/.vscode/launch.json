@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddBook",
+            "request": "launch",
+            "mainClass": "AddBook",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "AddLibrarian",
+            "request": "launch",
+            "mainClass": "AddLibrarian",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "AdminDashboard",
+            "request": "launch",
+            "mainClass": "AdminDashboard",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "Dashboard",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "DeleteBook",
+            "request": "launch",
+            "mainClass": "DeleteBook",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "DeleteLibrarian",
+            "request": "launch",
+            "mainClass": "DeleteLibrarian",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "IssueBook",
+            "request": "launch",
+            "mainClass": "IssueBook",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "LoginUI",
+            "request": "launch",
+            "mainClass": "LoginUI",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "Logout",
+            "request": "launch",
+            "mainClass": "Logout",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "ReturnBook",
+            "request": "launch",
+            "mainClass": "ReturnBook",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "SignupUI",
+            "request": "launch",
+            "mainClass": "SignupUI",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "ViewBooks",
+            "request": "launch",
+            "mainClass": "ViewBooks",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "ViewIssuedBooks",
+            "request": "launch",
+            "mainClass": "ViewIssuedBooks",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "ViewLibrarians",
+            "request": "launch",
+            "mainClass": "ViewLibrarians",
+            "projectName": "LMS_ca3f84b9"
+        },
+        {
+            "type": "java",
+            "name": "AddBook(1)",
+            "request": "launch",
+            "mainClass": "AddBook",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "AddLibrarian(1)",
+            "request": "launch",
+            "mainClass": "AddLibrarian",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "AdminDashboard(1)",
+            "request": "launch",
+            "mainClass": "AdminDashboard",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard(1)",
+            "request": "launch",
+            "mainClass": "Dashboard",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "DeleteBook(1)",
+            "request": "launch",
+            "mainClass": "DeleteBook",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "DeleteLibrarian(1)",
+            "request": "launch",
+            "mainClass": "DeleteLibrarian",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "IssueBook(1)",
+            "request": "launch",
+            "mainClass": "IssueBook",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "LoginUI(1)",
+            "request": "launch",
+            "mainClass": "LoginUI",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "Logout(1)",
+            "request": "launch",
+            "mainClass": "Logout",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "ReturnBook(1)",
+            "request": "launch",
+            "mainClass": "ReturnBook",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "SignupUI(1)",
+            "request": "launch",
+            "mainClass": "SignupUI",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "ViewBooks(1)",
+            "request": "launch",
+            "mainClass": "ViewBooks",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "ViewIssuedBooks(1)",
+            "request": "launch",
+            "mainClass": "ViewIssuedBooks",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "ViewLibrarians(1)",
+            "request": "launch",
+            "mainClass": "ViewLibrarians",
+            "projectName": "LMS"
+        }
+    ]
+}
