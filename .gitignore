@@ -1,0 +1,14 @@
+mysql-connector-j-9.2.0/
+*.class
+*.jar
+target/
+build/
+out/
+.idea/
+.settings/
+.vscode/
+*.iml
+*.classpath
+*.project
+Thumbs.db
+.DS_Store
